@@ -41,3 +41,5 @@ Eco Earth is fighting coal with represents non-renewable energy.
 
 
 Eco Earth is protecting his house in level one, his city in level two ; all the universe in level three.
+
+How to compile the game: install the apk file in your mobile 
